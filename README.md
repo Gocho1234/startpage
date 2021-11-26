@@ -5,10 +5,10 @@ Custom browser startpage:
 - Colorscheme: Gruvbox Dark
 - Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
 
-[Live Preview](https://kennethcheo.github.io/startpage/)
+[Live Preview](https://gocho1234.github.io/startpage/)
 
 ![startpage](startpage.gif)
 <p style="text-align: center;">cat</p>
 
-## Todo:
-- Turn blinking caret into working search bar
+## All credit to:
+kennethcheo (https://github.com/kennethcheo/startpage)
