@@ -8,6 +8,3 @@ Custom browser startpage:
 [Live Preview](https://gocho1234.github.io/startpage/)
 
 ![startpage](startpage.gif)
-
-## All credit to (forked from their repo):
-kennethcheo (https://github.com/kennethcheo/startpage)
