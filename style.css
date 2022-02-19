@@ -1,7 +1,7 @@
 html, body {
-  background:#282a36;
+  background:#040913;
   font-family: "JetBrains Mono";
-  color: #EADBB2;
+  color: #aa1872;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -78,11 +78,11 @@ a:link {
 }
 
 a:visited {
-  color: #668F8B;
+  color: #079374;
 }
 
 a:hover {
-  color: #FA7921;
+  color: #106295;
 }
 
 .blinking {
