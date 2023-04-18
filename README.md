@@ -2,8 +2,8 @@
 
 Custom browser startpage:
 - Font: JetBrains Mono
-- Colorscheme: Dracula
+- Colorscheme: Lambda
 
-[Live Preview](https://gocho1234.github.io/startpage/)
+[Live Preview](https://goncalobarias.github.io/startpage/)
 
 ![startpage](startpage.gif)
