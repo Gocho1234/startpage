@@ -6,4 +6,4 @@ Custom browser startpage:
 
 [Live Preview](https://goncalobarias.github.io/Startpage/)
 
-![startpage](startpage.gif)
+![startpage](assets/startpage.gif)

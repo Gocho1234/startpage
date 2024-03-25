@@ -1,7 +1,15 @@
-html, body {
-  background:#040913;
+:root {
+  --color-bg: #181a23;
+  --color-fg: #ff5555;
+  --color-link: #bd93f9;
+  --color-hover: #ff92df;
+}
+
+html,
+body {
+  background: var(--color-bg);
+  color: var(--color-fg);
   font-family: "JetBrains Mono";
-  color: #aa1872;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -11,8 +19,7 @@ html, body {
 .container {
   display: grid;
   grid-template-columns: 1fr 460px 600px 1fr;
-  grid-template-areas:
-    ". left right .";
+  grid-template-areas: ". left right .";
   column-gap: 80px;
   justify-items: center;
   align-items: center;
@@ -69,20 +76,20 @@ html, body {
 li {
   font-size: 16px;
   list-style-type: none;
-  padding: 5px
+  padding: 5px;
 }
 
 a:link {
   text-decoration: none;
-  color: #4457a2;
+  color: var(--color-link);
 }
 
 a:visited {
-  color: #079374;
+  color: var(--color-link);
 }
 
 a:hover {
-  color: #106295;
+  color: var(--color-hover);
 }
 
 .blinking {
